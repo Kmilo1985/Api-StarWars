@@ -1,0 +1,10 @@
+C:\JAVA_PRUEBAS\starwars\src\main\java\com\api\starwars\client\SwapiClient.java
+C:\JAVA_PRUEBAS\starwars\src\main\java\com\api\starwars\config\AppConfig.java
+C:\JAVA_PRUEBAS\starwars\src\main\java\com\api\starwars\controller\FilmController.java
+C:\JAVA_PRUEBAS\starwars\src\main\java\com\api\starwars\dto\FilmResponseDTO.java
+C:\JAVA_PRUEBAS\starwars\src\main\java\com\api\starwars\dto\SwapiFilmResponse.java
+C:\JAVA_PRUEBAS\starwars\src\main\java\com\api\starwars\exception\GlobalExceptionHandler.java
+C:\JAVA_PRUEBAS\starwars\src\main\java\com\api\starwars\model\FilmEntity.java
+C:\JAVA_PRUEBAS\starwars\src\main\java\com\api\starwars\repository\FilmRepository.java
+C:\JAVA_PRUEBAS\starwars\src\main\java\com\api\starwars\service\FilmService.java
+C:\JAVA_PRUEBAS\starwars\src\main\java\com\api\starwars\StarwarsApplication.java
